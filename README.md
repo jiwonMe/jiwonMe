@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Working as **Software Engineer at Sketchsoft.Inc**
+- [KICEditor](https://kiceditor.com) Developer
+- Worked as **Software Engineer at Sketchsoft.Inc**
 - Studying at **Information Systems in Hanyang University, Seoul**
 - Studied at **Sejong Academy of Science and Arts 3'**
 
